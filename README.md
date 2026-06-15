@@ -33,8 +33,8 @@
 
 ### 📫 Contact
 - Email: `gyu050419@gmial.com`
-- CV / Portfolio: [link](https://www.linkedin.com/in/%EB%AF%BC%EA%B7%9C-%EA%B9%80-ba0aa43ba/)
-- LinkedIn: [link]
+- CV / Portfolio: [link]
+- LinkedIn: [link](https://www.linkedin.com/in/%EB%AF%BC%EA%B7%9C-%EA%B9%80-ba0aa43ba/)
 
 <!--
 유지보수 팁:
