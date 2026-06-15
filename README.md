@@ -32,8 +32,8 @@
 ---
 
 ### 📫 Contact
-- Email: `your-email@example.com`
-- CV / Portfolio: [link]
+- Email: `gyu050419@gmial.com`
+- CV / Portfolio: [link](https://www.linkedin.com/in/%EB%AF%BC%EA%B7%9C-%EA%B9%80-ba0aa43ba/)
 - LinkedIn: [link]
 
 <!--
