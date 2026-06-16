@@ -13,6 +13,8 @@
 - **Human-Robot Interaction (HRI)** — intent-driven manipulation
 - **Embodied AI / Robot Learning** — Vision-Language-Action models, imitation learning
 
+![My Skills](https://skillicons.dev/icons?i=python,cpp,pytorch,sklearn,ros,linux,docker,git)
+
 ### 🛠️ Tech Stack
 **Languages** · Python, C++
 **ML/DL** · PyTorch, scikit-learn
