@@ -24,8 +24,6 @@
 ### 📌 Selected Projects
 - **[OpenVLA-OFT on UR5e](#)** — Fine-tuned a Vision-Language-Action model (LoRA, L1 regression) for pick & place on a real UR5e arm. Built the full ROS2 inference pipeline.
 - **[EEG Emotion Classifier](https://github.com/mingyu-gif/EEG-classifier)** — EEG 기반 감정 분류 모델.
-- **[paper-implement-ALIS](https://github.com/mingyu-gif/paper-implement-ALIS)** — Reproduction of the ALIS paper.
-- **[NASA C-MAPSS RUL Prediction](#)** — Masked Autoencoder pre-training for turbofan engine remaining-useful-life prediction (Transformer + MLP).
 
 > 자세한 내용은 각 저장소의 README와 핀 고정된 프로젝트를 참고해 주세요.
 
