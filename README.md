@@ -15,13 +15,17 @@
 
 ### 🛠️ Tech Stack
 
-| | |
-|:--|:--|
-| **Languages** | ![](https://skillicons.dev/icons?i=py,cpp,bash) |
-| **ML / DL** | ![](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv) |
-| **Robotics** | ![](https://skillicons.dev/icons?i=ros,linux,ubuntu) |
-| **Tools** | ![](https://skillicons.dev/icons?i=git,github,vscode,notion) |
+**Languages**<br>
+![](https://skillicons.dev/icons?i=py,cpp,bash)
 
+**ML / DL**<br>
+![](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv)
+
+**Robotics**<br>
+![](https://skillicons.dev/icons?i=ros,linux,ubuntu)
+
+**Tools**<br>
+![](https://skillicons.dev/icons?i=git,github,vscode,notion)
 ---
 
 ### 📌 Selected Projects
