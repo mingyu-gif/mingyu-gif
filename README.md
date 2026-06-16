@@ -37,7 +37,7 @@
 
 ### 📌 Selected Projects
 
-- **[OpenVLA-OFT on UR5e](#)** — Fine-tuned a Vision-Language-Action model (LoRA, L1 regression) for pick & place on a real UR5e arm. Built the full ROS2 inference pipeline.
+- **[OpenVLA-OFT on UR5e](https://github.com/mingyu-gif/openVLA-OFT)** — Fine-tuned a Vision-Language-Action model (LoRA, L1 regression) for pick & place on a real UR5e arm. Built the full ROS2 inference pipeline.
 - **[EEG Emotion Classifier](https://github.com/mingyu-gif/EEG-classifier)** — An EEG-based emotion classification model.
 
 > See individual repositories and pinned projects for details.
