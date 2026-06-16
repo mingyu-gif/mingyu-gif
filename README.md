@@ -1,6 +1,5 @@
 # Hi, I'm Mingyu Kim 👋
-
-AI undergraduate @ **Inha University** · Interested in EEG-based BCI, Human-Robot Interaction, and Embodied AI
+> AI undergraduate @ **Inha University** · Interested in EEG-based BCI, Human-Robot Interaction, and Embodied AI
 
 ---
 
