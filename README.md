@@ -15,7 +15,7 @@
 
 ### 🛠️ Tech Stack
 
-| | |
+|:--|:--|
 | **Languages** | ![](https://skillicons.dev/icons?i=py,cpp,bash) |
 | **ML / DL** | ![](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv) |
 | **Robotics** | ![](https://skillicons.dev/icons?i=ros,linux,ubuntu) |
