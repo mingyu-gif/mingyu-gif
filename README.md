@@ -1,15 +1,16 @@
 # Hi, I'm Mingyu Kim 👋
 
-> AI undergraduate @ Inha University · Interested in **EEG-based BCI**, **Human-Robot Interaction**, and **Embodied AI**
+AI undergraduate @ **Inha University** · Interested in EEG-based BCI, Human-Robot Interaction, and Embodied AI
 
-
+---
 
 ### 🔬 Research Interests
+
 - **Brain-Computer Interface (BCI)** — EEG emotion recognition, neural signal decoding
 - **Human-Robot Interaction (HRI)** — intent-driven manipulation
 - **Embodied AI / Robot Learning** — Vision-Language-Action models, imitation learning
 
-
+---
 
 ### 🛠️ Tech Stack
 
@@ -20,7 +21,6 @@
 
 **ML / DL**<br>
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 
 **Robotics**<br>
@@ -34,26 +34,20 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
 
-
-
+---
 
 ### 📌 Selected Projects
+
 - **[OpenVLA-OFT on UR5e](#)** — Fine-tuned a Vision-Language-Action model (LoRA, L1 regression) for pick & place on a real UR5e arm. Built the full ROS2 inference pipeline.
-- **[EEG Emotion Classifier](https://github.com/mingyu-gif/EEG-classifier)** — EEG 기반 감정 분류 모델.
+- **[EEG Emotion Classifier](https://github.com/mingyu-gif/EEG-classifier)** — An EEG-based emotion classification model.
 
-> 자세한 내용은 각 저장소의 README와 핀 고정된 프로젝트를 참고해 주세요.
+> See individual repositories and pinned projects for details.
 
-
-
+---
 
 ### 📫 Contact
-- Email: `gyu050419@gmial.com`
-- CV / Portfolio: [link]
-- LinkedIn: [link](https://www.linkedin.com/in/%EB%AF%BC%EA%B7%9C-%EA%B9%80-ba0aa43ba/)
 
-<!--
-유지보수 팁:
-- 새 프로젝트 끝낼 때마다 'Selected Projects'에 한 줄 추가
-- 강한 프로젝트 6개를 프로필에서 Pin 고정
-- 연구 관심사 바뀌면 맨 위 한 줄(태그라인)만 수정해도 인상이 바뀜
--->
+- **Email:** gyu050419@gmail.com
+- **CV / Portfolio:** [link]
+- **LinkedIn:** [Mingyu Kim](https://www.linkedin.com/in/%EB%AF%BC%EA%B7%9C-%EA%B9%80-ba0aa43ba/)
+
