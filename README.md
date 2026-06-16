@@ -1,11 +1,12 @@
-# 안녕하세요, 김민규입니다 👋
+# Hi, I'm Mingyu Kim 👋
 
 > AI undergraduate @ Inha University · Interested in **EEG-based BCI**, **Human-Robot Interaction**, and **Embodied AI**
 
-저는 인하대학교 인공지능공학과에서 공부하며,
-**뇌신호(EEG) 기반 감정 인식**과 **로봇 매니퓰레이션(VLA)** 을 연구하고 있습니다.
-신호를 의도로, 의도를 행동으로 옮기는 인터페이스에 관심이 많습니다.
+I'm an undergraduate in AI at **Inha University**, working on
+**EEG-based emotion recognition** and **robot manipulation with Vision-Language-Action (VLA) models**.
 
+I'm drawn to the interface between mind and machine —
+turning *signals into intent, and intent into action*.
 ---
 
 ### 🔬 Research Interests
