@@ -13,21 +13,14 @@
 - **Human-Robot Interaction (HRI)** — intent-driven manipulation
 - **Embodied AI / Robot Learning** — Vision-Language-Action models, imitation learning
 
-
 ### 🛠️ Tech Stack
 
-**Languages** 
-![](https://skillicons.dev/icons?i=py,cpp,c,bash)
-
-**ML / DL** 
-![](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,anaconda)
-
-**Robotics** 
-![](https://skillicons.dev/icons?i=ros,linux,ubuntu)
-`UR5e` · `RealSense` · `ZeroMQ` · `RLDS` · `OpenVLA`
-
-**Tools** 
-![](https://skillicons.dev/icons?i=git,github,vscode,docker,notion,latex)
+| | |
+|:--|:--|
+| **Languages** | ![](https://skillicons.dev/icons?i=py,cpp,bash) |
+| **ML / DL** | ![](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv) |
+| **Robotics** | ![](https://skillicons.dev/icons?i=ros,linux,ubuntu) &nbsp; `UR5e` `RealSense` `ZeroMQ` |
+| **Tools** | ![](https://skillicons.dev/icons?i=git,github,vscode,notion) |
 
 ---
 
