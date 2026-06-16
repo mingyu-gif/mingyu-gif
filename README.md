@@ -2,11 +2,6 @@
 
 > AI undergraduate @ Inha University · Interested in **EEG-based BCI**, **Human-Robot Interaction**, and **Embodied AI**
 
-I'm an undergraduate in AI at **Inha University**, working on
-**EEG-based emotion recognition** and **robot manipulation with Vision-Language-Action (VLA) models**.
-
-I'm drawn to the interface between mind and machine —
-turning *signals into intent, and intent into action*.
 ---
 
 ### 🔬 Research Interests
