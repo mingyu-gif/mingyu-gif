@@ -16,10 +16,14 @@
 ![My Skills](https://skillicons.dev/icons?i=python,cpp,pytorch,sklearn,ros,linux,docker,git)
 
 ### 🛠️ Tech Stack
-**Languages** · Python, C++
-**ML/DL** · PyTorch, scikit-learn
-**Robotics** · ROS2, UR5e, RealSense, ZeroMQ
-**Tools** · Git, Linux, Docker
+**Languages** 
+![My Skills](https://skillicons.dev/icons?i=python,cpp,numpy,pandas,tensorflow,bash)
+**ML/DL** 
+![My Skills](https://skillicons.dev/icons?i=pytorch,sklearn)
+**Robotics** 
+![My Skills](https://skillicons.dev/icons?i=ROS2, UR5e, RealSense, ZeroMQ,RLDS)
+**Tools** 
+![My Skills](https://skillicons.dev/icons?i=vscode,git,linux)
 
 ---
 
