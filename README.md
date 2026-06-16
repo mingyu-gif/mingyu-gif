@@ -16,10 +16,9 @@
 ### 🛠️ Tech Stack
 
 | | |
-|:--|:--|
 | **Languages** | ![](https://skillicons.dev/icons?i=py,cpp,bash) |
 | **ML / DL** | ![](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv) |
-| **Robotics** | ![](https://skillicons.dev/icons?i=ros,linux,ubuntu) &nbsp; `UR5e` `RealSense` `ZeroMQ` |
+| **Robotics** | ![](https://skillicons.dev/icons?i=ros,linux,ubuntu) |
 | **Tools** | ![](https://skillicons.dev/icons?i=git,github,vscode,notion) |
 
 ---
