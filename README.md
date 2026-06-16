@@ -2,12 +2,13 @@
 
 > AI undergraduate @ Inha University · Interested in **EEG-based BCI**, **Human-Robot Interaction**, and **Embodied AI**
 
----
+
 
 ### 🔬 Research Interests
 - **Brain-Computer Interface (BCI)** — EEG emotion recognition, neural signal decoding
 - **Human-Robot Interaction (HRI)** — intent-driven manipulation
 - **Embodied AI / Robot Learning** — Vision-Language-Action models, imitation learning
+
 
 
 ### 🛠️ Tech Stack
@@ -33,7 +34,8 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
 
----
+
+
 
 ### 📌 Selected Projects
 - **[OpenVLA-OFT on UR5e](#)** — Fine-tuned a Vision-Language-Action model (LoRA, L1 regression) for pick & place on a real UR5e arm. Built the full ROS2 inference pipeline.
@@ -41,7 +43,8 @@
 
 > 자세한 내용은 각 저장소의 README와 핀 고정된 프로젝트를 참고해 주세요.
 
----
+
+
 
 ### 📫 Contact
 - Email: `gyu050419@gmial.com`
