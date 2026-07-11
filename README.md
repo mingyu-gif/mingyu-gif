@@ -48,6 +48,6 @@
 ### 📫 Contact
 
 - **Email:** gyu050419@gmail.com
-- **CV / Portfolio:** [CV](https://raw.githubusercontent.com/mingyu-gif/mingyu-gif/main/assets/CV.pdf)
+- **CV / Portfolio:** [CV](https://github.com/mingyu-gif/mingyu-gif/blob/main/assets/CV.pdf)
 - **LinkedIn:** [Mingyu Kim](https://www.linkedin.com/in/%EB%AF%BC%EA%B7%9C-%EA%B9%80-ba0aa43ba/)
 
